@@ -1,2 +1,2 @@
 # ada-plplot
-Ada using the plplot cross-platform library 
+Using plplot module in Ada.
